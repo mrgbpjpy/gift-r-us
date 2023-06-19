@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button{
+    z-index: 100;
+}
+
+.threed{
+    z-index: 1;
+}
+
+.letters{
+    z-index: 20;
+    opacity: 0;
+}
+.letters2{
+    z-index: 20;
+    opacity: 0;
+}
+
+.letters3{
+    z-index: 20;
+    opacity: 0;
+}
